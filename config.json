@@ -1,0 +1,27 @@
+{
+  "owner_id": 123456789012345678,
+  "log_channel_name": "canvas-mod-logs",
+  "mute_role_name": "Muted",
+  "anti_link": true,
+  "anti_badword": true,
+  "anti_spam": true,
+  "anti_raid": true,
+  "anti_mass_mention": true,
+  "auto_punish": true,
+  "spam_message_limit": 5,
+  "spam_time_window": 8,
+  "mass_mention_limit": 5,
+  "raid_join_limit": 5,
+  "raid_join_window": 20,
+  "new_account_days_limit": 7,
+  "bad_words": [
+    "badword1",
+    "badword2",
+    "badword3"
+  ],
+  "whitelist_role_names": [
+    "Admin",
+    "Moderator"
+  ],
+  "whitelist_user_ids": []
+}
